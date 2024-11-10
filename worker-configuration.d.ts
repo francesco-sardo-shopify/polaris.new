@@ -1,3 +1,3 @@
 interface Env {
-  ANTHROPIC_API_KEY: string;
+  PROXY_API_KEY: string;
 }
